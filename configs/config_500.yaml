@@ -1,0 +1,7 @@
+path: '/content/data/500'
+train: images/train  # train images (relative to 'path')
+val: images/test  # val images (relative to 'path')
+
+# Classes
+names:
+  0: duck
