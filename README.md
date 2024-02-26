@@ -4,7 +4,7 @@ How much data do you need to train a ML model? | Object detection with Python an
 <p align="center">
 <a href="https://www.youtube.com/watch?v=8YXk_zcllC8">
     <img width="100%" src="https://github.com/computervisioneng/experiment-how-much-data-ml-model/blob/main/thumbnail.jpg" alt="Watch the video">
-    </br>Watch on YouTube: How much data do you need to train a ML model? | Object detection with Python and Yolov8 !
+    </br>Watch on YouTube: How much data do you need to train a ML model? !
 </a>
 </p>
 
